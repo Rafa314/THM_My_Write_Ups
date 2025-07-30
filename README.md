@@ -3,8 +3,8 @@ Meus write ups do TryHackMe
 
 | Status | Room Title                                                                    | Category            | Write-up                                 |
 | ---    | ---                                                                           | ---                 | ---                                      |
-| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |  done                                    |
-| ☑      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
+| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
+| ☑      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |      done                                |
 | ☑      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | 
 | ☑      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
 | ☑      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
