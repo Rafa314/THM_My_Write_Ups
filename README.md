@@ -3,11 +3,11 @@ Meus write ups do TryHackMe
 
 | Status | Room Title                                                                    | Category            | Write-up                                 |
 | ---    | ---                                                                           | ---                 | ---                                      |
-| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
+| ☑      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |  done                                    |
 | ☑      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
 | ☑      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | 
 | ☑      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
-| ☐      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
+| ☑      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ☐      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
 | ☐      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
