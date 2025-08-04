@@ -10,8 +10,8 @@ Meus write ups do TryHackMe
 | ☑      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ☑      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |      done                                |
 | ☑      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |      done                                |
-| ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
-| ☐      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
+| ☑      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
+| ☑      | [Linux Fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)     | Intro               |                                          |
 | ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☐      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | ☐      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
